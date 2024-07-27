@@ -1,3 +1,1 @@
-Hello Guys!
-
-I'm new to GitHub so please dont mind me.  
+What do I even write here?
